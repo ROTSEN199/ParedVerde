@@ -13,7 +13,7 @@ Implementar un dispositivo que nos permita monitorear plantas dentro de un proto
 
 El dispotisivo contará con una aplicación donde mostrará el estado de humedad y temperatura, el registro de riego, permitiendo un control del mismo.
 
-## Material de uso
+## Material de uso  //Sergio
 
 |Componente|Imagen|Descripción|Cantidad|
 |---|---|---|---|
@@ -21,10 +21,10 @@ El dispotisivo contará con una aplicación donde mostrará el estado de humedad
 |   |   |   |   |
 |   |   |   |   |
 
-## Historia de usuario Epicas
+## Historia de usuario Epicas  // Alma
 
-## Diagrama inicial
+## Diagrama inicial   //Nestor
 
-## Prototipo
+## Prototipo  // Alma
 
-## Mapa de historia de usuario
+## Mapa de historia de usuario  //Fer
