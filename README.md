@@ -17,7 +17,7 @@ El dispotisivo contará con una aplicación donde mostrará el estado de humedad
 
 |Componente|Imagen|Descripción|Cantidad|
 |---|---|---|---|
-|   |   |   |   |
+|Raspberry pi|   |   |   |
 |   |   |   |   |
 |   |   |   |   |
 
