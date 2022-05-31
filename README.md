@@ -18,8 +18,11 @@ El dispotisivo contará con una aplicación donde mostrará el estado de humedad
 |Componente|Imagen|Descripción|Cantidad|
 |---|---|---|---|
 |Raspberry pi|   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|Sensor de temperatura|   |   |   |
+|Sensor de humedad|  |   |   |
+|ESP32|   |   |   |
+|Motor para arduino|   |   |   |
+|Sensor de humedad|  |   |   |
 
 ## Historia de usuario Epicas  // Alma
 
