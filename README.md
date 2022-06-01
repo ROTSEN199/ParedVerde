@@ -17,10 +17,8 @@ El dispotisivo contará con una aplicación donde mostrará el estado de humedad
 
 |Componente|Imagen|Descripción|Cantidad|
 |---|---|---|---|
-|Raspberry pi| ![raspberry-pi-](https://user-images.githubusercontent.com/90642664/171302620-60e77d6f-04f1-4e92-abd3-60c3bd514649.jpg)| <p>Las características del ESP32 incluyen bastantes por lo cual se añadieron solamente 2 de cada uno:</p>
-<p>Procesador:
-CPU: microprocesador de 32-bit Xtensa LX6 de doble núcleo (o de un solo núcleo), operando a 160 o 240 MHz y rindiendo hasta 600 DMIPS
-Co-procesador de ultra baja energía (ULP)
+|Raspberry pi| ![raspberry-pi-](https://user-images.githubusercontent.com/90642664/171302620-60e77d6f-04f1-4e92-abd3-60c3bd514649.jpg)| <p>Las características del ESP32 incluyen bastantes por lo cual se añadieron solamente 2 de cada uno:</p><p>Procesador:<br> CPU: microprocesador de 32-bit Xtensa LX6 de doble núcleo (o de un solo núcleo), operando a 160 o 240 MHz y rindiendo hasta 600 DMIPS
+Co-procesador de ultra baja energía (ULP)</p>
 Memoria: 
 520 KiB SRAM</p>
 Conectividad inalámbrica:
