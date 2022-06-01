@@ -17,7 +17,7 @@ El dispotisivo contará con una aplicación donde mostrará el estado de humedad
 
 |Componente|Imagen|Descripción|Cantidad|
 |---|---|---|---|
-|Raspberry pi| https://raw.githubusercontent.com/Fer33U/ParedVerde/master/assets/raspberry-pi-.jpg|   |   |
+|Raspberry pi| ![raspberry-pi-](https://user-images.githubusercontent.com/90642664/171302620-60e77d6f-04f1-4e92-abd3-60c3bd514649.jpg)|    |   |
 |Sensor de temperatura|   |   |   |
 |Sensor de humedad|  |   |   |
 |ESP32|   |   |   |
