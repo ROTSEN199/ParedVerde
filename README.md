@@ -17,15 +17,7 @@ El dispotisivo contará con una aplicación donde mostrará el estado de humedad
 
 |Componente|Imagen|Descripción|Cantidad|
 |---|---|---|---|
-|Raspberry pi| ![raspberry-pi-](https://user-images.githubusercontent.com/90642664/171302620-60e77d6f-04f1-4e92-abd3-60c3bd514649.jpg)| <p>Las características del ESP32 incluyen bastantes por lo cual se añadieron solamente 2 de cada uno:</p><p>***Procesador:***<br> CPU: microprocesador de 32-bit Xtensa LX6 de doble núcleo (o de un solo núcleo), operando a 160 o 240 MHz y rindiendo hasta 600 DMIPS.<br>Co-procesador de ultra baja energía (ULP)</p><p>***Memoria:***<br>520 KiB SRAM</p><p>***Conectividad inalámbrica:***<br>Wi-Fi: 802.11 b/g/n<br>Bluetooth:v4.2 BR/EDR y BLE<br>
-Interfaces periféricas:
-12-bit SAR ADC de hasta 18 canales
-Seguridad:
-Soporta todas las características de seguridad estándar de IEEE 802.11, incluyendo WFA, WPA/WPA2 y WAPI
-Arranque seguro
-Administración de energía:
-Regulador interno de baja caída
-Dominio de poder individual para RTC | 1 |
+|Raspberry pi| ![raspberry-pi-](https://user-images.githubusercontent.com/90642664/171302620-60e77d6f-04f1-4e92-abd3-60c3bd514649.jpg)| <p>Las características del ESP32 incluyen bastantes por lo cual se añadieron solamente 2 de cada uno:</p><p>***Procesador:***<br> CPU: microprocesador de 32-bit Xtensa LX6 de doble núcleo (o de un solo núcleo), operando a 160 o 240 MHz y rindiendo hasta 600 DMIPS.<br>Co-procesador de ultra baja energía (ULP)</p><p>***Memoria:***<br>520 KiB SRAM</p><p>***Conectividad inalámbrica:***<br>Wi-Fi: 802.11 b/g/n<br>Bluetooth:v4.2 BR/EDR y BLE<br></p><p>***Interfaces periféricas:***<br>12-bit SAR ADC de hasta 18 canales<br>Seguridad:Soporta todas las características de seguridad estándar de IEEE 802.11, incluyendo WFA, WPA/WPA2 y WAPI<br>Arranque seguro</p><p>***Administración de energía:***<br>Regulador interno de baja caída<br>Dominio de poder individual para RTC</p>| 1 |
 |Sensor de temperatura|   |   |   |
 |Sensor de humedad|  |   |   |
 |ESP32|   |   |   |
