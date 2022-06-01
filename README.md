@@ -27,8 +27,11 @@ El dispotisivo contará con una aplicación donde mostrará el estado de humedad
 ## Historia de usuario Epicas
  
 Yo como Innovador deseo que este proyecto nos permita ayudar al medio ambiente mediante los riegos automatizados para así mantener las áreas verdes para personas en un futuro, también se pretende cuidar el agua mediante el riego solamente en cierto tiempo mediante un sensor de temperatura que nos idicará el momento justo para el riego aprovechandoa las bajas temperaturas para evitar la rapida evaporación del agua.
+
 Yo como Vegana deseo un dispositivo que me permita colocar plantas dentro del poco espacio que dispongo y poder mantenerlas vivas para así poder incluso cultivar diferentes especies que yo considere necesarias para empezar un huerto a futuro.
+
 Yo como agricultor me gustaría tener el sistema de riego automático para que remota mente tener mis plantas  con el cuidado debido de agua.
+
 Yo como trabajador con un horario muy volátil deseo aprovechar lugares pequeños en mi casa para plantar todo tipo de plantas y con el sistema de riego automatico poder estar seguro que en el momento en que me sea imposible regarlas no se vean perjudicadas.
 
 ## Diagrama inicial   //Nestor
