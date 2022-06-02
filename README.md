@@ -24,18 +24,10 @@ El dispotisivo contará con una aplicación donde mostrará el estado de humedad
 |ESP32| ![ESP32](https://user-images.githubusercontent.com/90642664/171304942-8e8571fb-f99a-47b0-833b-af3abb0ba370.jpg)| <p>Las características del ESP32 incluyen bastantes por lo cual se añadieron solamente 2 de cada uno:</p><p>***Procesador:***<br> CPU: microprocesador de 32-bit Xtensa LX6 de doble núcleo (o de un solo núcleo), operando a 160 o 240 MHz y rindiendo hasta 600 DMIPS.<br>Co-procesador de ultra baja energía (ULP)</p><p>***Memoria:***<br>520 KiB SRAM</p><p>***Conectividad inalámbrica:***<br>Wi-Fi: 802.11 b/g/n<br>Bluetooth:v4.2 BR/EDR y BLE<br></p><p>***Interfaces periféricas:***<br>12-bit SAR ADC de hasta 18 canales<br>Seguridad:Soporta todas las características de seguridad estándar de IEEE 802.11, incluyendo WFA, WPA/WPA2 y WAPI<br>Arranque seguro</p><p>***Administración de energía:***<br>Regulador interno de baja caída<br>Dominio de poder individual para RTC</p>| 1 |
 |Mini bomba de agua|![Mini bomba de agua sumergible](https://user-images.githubusercontent.com/90642664/171305127-7652ea60-741a-4e3a-87dc-d2b574467ebd.jpg)| <p>***ESPECIFICACIONES TÉCNICAS.<br><ol><li>Voltaje de funcionamiento: 2,5-6v DC.</li><li>Altura bombeo máx.: 40-110cm.</li><li>Caudal bombeo máx.: 80-120 l/h.</li><li>Diámetro salida Exterior: 7,5 mm.</li><li>Diámetro salida Interior: 5 mm.</li><li>Longitud cable: 20cm.</li><li>Tiempo continuo de trabajo de 500 horas.</li></ol></p>| 2 |.
 
-## Historia de usuario Epicas
- 
-Yo como Innovador deseo que este proyecto nos permita ayudar al medio ambiente mediante los riegos automatizados para así mantener las áreas verdes para personas en un futuro, también se pretende cuidar el agua mediante el riego solamente en cierto tiempo mediante un sensor de temperatura que nos idicará el momento justo para el riego aprovechandoa las bajas temperaturas para evitar la rapida evaporación del agua.
-
-Yo como Vegana deseo un dispositivo que me permita colocar plantas dentro del poco espacio que dispongo y poder mantenerlas vivas para así poder incluso cultivar diferentes especies que yo considere necesarias para empezar un huerto a futuro.
-
-Yo como agricultor me gustaría tener el sistema de riego automático para que remota mente tener mis plantas  con el cuidado debido de agua.
-
-Yo como trabajador con un horario muy volátil deseo aprovechar lugares pequeños en mi casa para plantar todo tipo de plantas y con el sistema de riego automatico poder estar seguro que en el momento en que me sea imposible regarlas no se vean perjudicadas.
+## Historia de usuario Epicas  // Alma
 
 ## Diagrama inicial   //Nestor
-
+|diagrama de conexion con ESP_32|![Untitled Sketch_bb](https://user-images.githubusercontent.com/95454472/171320826-ecdcefc3-67db-4f8c-b097-7943b4385f35.jpg)
 ## Prototipo  // Alma
 
 ## Mapa de historia de usuario  //Fer
