@@ -35,7 +35,7 @@ Yo como agricultor me gustaría tener el sistema de riego automático para que r
 Yo como trabajador con un horario muy volátil deseo aprovechar lugares pequeños en mi casa para plantar todo tipo de plantas y con el sistema de riego automatico poder estar seguro que en el momento en que me sea imposible regarlas no se vean perjudicadas.
 
 ## Diagrama inicial   //Nestor
-![Untitled Sketch_bb](https://user-images.githubusercontent.com/90642664/171706506-57deabc3-c716-4fa9-89b8-0f32cb4f7ffb.jpg)
+|***Diagrama de conexión de la ESP32***|![Untitled Sketch_bb](https://user-images.githubusercontent.com/90642664/171706506-57deabc3-c716-4fa9-89b8-0f32cb4f7ffb.jpg)
 
 ## Prototipo  // Alma
 
