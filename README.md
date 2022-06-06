@@ -27,6 +27,7 @@ El dispotisivo contará con una aplicación donde mostrará el estado de humedad
 ## Historia de usuario Epicas  // Alma
 
 ## Diagrama inicial   //Nestor
+![Untitled Sketch_bb](https://user-images.githubusercontent.com/95454472/172226808-e73c491d-ef6f-4e07-a26a-0efc44457029.jpg)
 
 ## Prototipo  // Alma
 
